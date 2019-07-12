@@ -12,6 +12,11 @@ img {
   margin-right: auto;
   width: 50%;
 }
+a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: gray;
+}
 
 
 
